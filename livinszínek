@@ -1,4 +1,3 @@
-# wlen.github.io
 :root {
 --liny-back1: #040f10; /*----- legsötétebb, felső sáv */
 --liny-back2: #04191b; /*világosabb háttér, pl. téma cím */
